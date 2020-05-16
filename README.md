@@ -7,7 +7,10 @@ Prerequisites:
 
 Geany IDE and gcc compilator (only on Windows)
 
+NEW THINGS LEARNED:
+
 Connaissances déclaratives (quoi)
+
 – Pointeurs, Structures (struct), Lecture et écriture de fichiers texte, Implémentation d’algorithmes structurés manipulant de tableaux d’une et deux
 dimensions, Création de fonctions selon des spécifications fournies, Fichiers d’entête (.h), Compilation séparée
 
